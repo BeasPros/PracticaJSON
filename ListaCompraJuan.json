@@ -1,0 +1,316 @@
+{
+    "supermercados": [
+      {
+        "nombre": "Supermercado DIA",
+        "direccion": "Calle Atocha 22",
+        "geolocalizacion": {
+          "latitud": 40.414891362535556,
+          "longitud": -3.6980550621954396
+        },
+        "ofertas": [
+          {
+            "producto": "Aceite de oliva virgen extra",
+            "precio": 5.59,
+            "unidad": "1L",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-03",
+              "fin": "2023-06-13"
+            },
+            "adquirido": false
+          },
+          {
+            "producto": "Calabacín",
+            "precio": 1.22,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-13",
+              "fin": "2023-06-19"
+            },
+            "adquirido": false
+          },
+          {
+            "producto": "Patata nueva",
+            "precio": 1.05,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-12",
+              "fin": "2023-06-23"
+            },
+            "adquirido": false
+          }
+        ],
+        "cesta_de_productos_habituales": {
+          "Carnicería": [
+            {
+              "producto": "Pollo entero",
+              "precio": 3.35,
+              "unidad": "1kg",
+              "adquirido": false
+            }
+          ],
+          "Parafarmacia": [
+            {
+              "producto": "Gel de baño hidratante de aceite de oliva",
+              "precio": 2.05,
+              "unidad": "600ml",
+              "adquirido": false
+            },
+            {
+              "producto": "Pasta dentífrica",
+              "precio": 1.85,
+              "unidad": "unidad",
+              "adquirido": false
+            }
+          ],
+          "Panadería": [
+            {
+              "producto": "Barra de pan",
+              "precio": 0.65,
+              "unidad": "300gr",
+              "adquirido": false
+            }
+          ],
+          "Frutería": [
+            {
+              "producto": "Patata nueva",
+              "precio": 1.05,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Manzanas Golden",
+              "precio": 2.65,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Pimientos verdes Italianos",
+              "precio": 2.99,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Lechuga iceberg",
+              "precio": 0.99,
+              "unidad": "1 unidad",
+              "adquirido": false
+            },
+            {
+              "producto": "Calabacín",
+              "precio": 1.22,
+              "unidad": "1kg",
+              "adquirido": false
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Mercadona",
+        "direccion": "Calle de Serrano, 61",
+        "geolocalizacion": {
+          "latitud": 40.43344058001536,
+          "longitud": -3.6850946522332735
+        },
+        "ofertas": [
+          {
+            "producto": "Arroz redondo",
+            "precio": 1.10,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-05-20",
+              "fin": "2023-06-20"
+            },
+            "adquirido": false
+          },
+          {
+            "producto": "Garbanzos",
+            "precio": 1.13,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-01",
+              "fin": "2023-06-15"
+            },
+            "adquirido": false
+          },
+          {
+            "producto": "Manzanas Golden",
+            "precio": 1.65,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-01",
+              "fin": "2023-06-15"
+            },
+            "adquirido": false
+          }
+        ],
+        "cesta_de_productos_habituales": {
+          "Carnicería": [
+            {
+              "producto": "Pollo entero",
+              "precio": 3.55,
+              "unidad": "1kg",
+              "adquirido": false
+            }
+          ],
+          "Parafarmacia": [
+            {
+              "producto": "Gel de baño hidratante de aceite de oliva",
+              "precio": 2.25,
+              "unidad": "600ml",
+              "adquirido": false
+            },
+            {
+              "producto": "Pasta dentífrica",
+              "precio": 2.60,
+              "unidad": "unidad",
+              "adquirido": false
+            }
+          ],
+          "Panadería": [
+            {
+              "producto": "Barra de pan",
+              "precio": 0.95,
+              "unidad": "300gr",
+              "adquirido": false
+            }
+          ],
+          "Frutería": [
+            {
+              "producto": "Calabacín",
+              "precio": 2.25,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Patata nueva",
+              "precio": 1.25,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Manzanas Golden",
+              "precio": 1.65,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Pimientos verdes Italianos",
+              "precio": 2.79,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Lechuga iceberg",
+              "precio": 1.29,
+              "unidad": "1 unidad",
+              "adquirido": false
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "AhorraMás",
+        "direccion": "Calle Andrés Mellado 43",
+        "geolocalizacion": {
+          "latitud":40.404300352390024,
+          "longitud": -3.6902444819676465
+        },
+        "ofertas": [
+          {
+            "producto": "Lechuga iceberg",
+            "precio": 0.89,
+            "unidad": "1 unidad",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-12",
+              "fin": "2023-06-23"
+            },
+            "adquirido": false
+          },
+          {
+            "producto": "Harina de trigo integral",
+            "precio": 0.55,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-05-30",
+              "fin": "2023-06-15"
+            },
+            "adquirido": false
+          },
+          {
+            "producto": "Pimientos verdes Italianos",
+            "precio": 2.59,
+            "unidad": "1kg",
+            "periodo_de_vigencia_de_las_ofertas": {
+              "inicio": "2023-06-13",
+              "fin": "2023-06-20"
+            },
+            "adquirido": false
+          }
+        ],
+        "cesta_de_productos_habituales": {
+          "Carnicería": [
+            {
+              "producto": "Pollo entero",
+              "precio": 3.55,
+              "unidad": "1kg",
+              "adquirido": false
+            }
+          ],
+          "Parafarmacia": [
+            {
+              "producto": "Gel de baño hidratante de aceite de oliva",
+              "precio": 2.10,
+              "unidad": "600ml",
+              "adquirido": false
+            },
+            {
+              "producto": "Pasta dentífrica",
+              "precio": 2.42,
+              "unidad": "unidad",
+              "adquirido": false
+            }
+          ],
+          "Panadería": [
+            {
+              "producto": "Barra de pan",
+              "precio": 0.51,
+              "unidad": "300gr",
+              "adquirido": false
+            }
+          ],
+          "Frutería": [
+            {
+              "producto": "Calabacín",
+              "precio": 1.99,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Patata nueva",
+              "precio": 1.15,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Manzanas Golden",
+              "precio": 1.85,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Pimientos verdes Italianos",
+              "precio": 2.59,
+              "unidad": "1kg",
+              "adquirido": false
+            },
+            {
+              "producto": "Lechuga iceberg",
+              "precio": 0.89,
+              "unidad": "1 unidad",
+              "adquirido": false
+            }
+          ]
+        }
+      }
+    ]
+}

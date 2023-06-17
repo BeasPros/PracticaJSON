@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercados>
+  <nombre>Supermercado DIA</nombre>
+  <direccion>Calle Atocha 22</direccion>
+  <geolocalizacion>
+    <latitud>40.414891362535556</latitud>
+    <longitud>-3.6980550621954396</longitud>
+  </geolocalizacion>
+  <ofertas>
+    <producto>Aceite de oliva virgen extra</producto>
+    <precio>5.59</precio>
+    <unidad>1L</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-03</inicio>
+      <fin>2023-06-13</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <ofertas>
+    <producto>Calabacín</producto>
+    <precio>1.22</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-13</inicio>
+      <fin>2023-06-19</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <ofertas>
+    <producto>Patata nueva</producto>
+    <precio>1.05</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-12</inicio>
+      <fin>2023-06-23</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <cesta_de_productos_habituales>
+    <Carnicería>
+      <producto>Pollo entero</producto>
+      <precio>3.35</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Carnicería>
+    <Parafarmacia>
+      <producto>Gel de baño hidratante de aceite de oliva</producto>
+      <precio>2.05</precio>
+      <unidad>600ml</unidad>
+      <adquirido>false</adquirido>
+    </Parafarmacia>
+    <Parafarmacia>
+      <producto>Pasta dentífrica</producto>
+      <precio>1.85</precio>
+      <unidad>unidad</unidad>
+      <adquirido>false</adquirido>
+    </Parafarmacia>
+    <Panadería>
+      <producto>Barra de pan</producto>
+      <precio>0.65</precio>
+      <unidad>300gr</unidad>
+      <adquirido>false</adquirido>
+    </Panadería>
+    <Frutería>
+      <producto>Patata nueva</producto>
+      <precio>1.05</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Manzanas Golden</producto>
+      <precio>2.65</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Pimientos verdes Italianos</producto>
+      <precio>2.99</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Lechuga iceberg</producto>
+      <precio>0.99</precio>
+      <unidad>1 unidad</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Calabacín</producto>
+      <precio>1.22</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+  </cesta_de_productos_habituales>
+</supermercados>
+<supermercados>
+  <nombre>Mercadona</nombre>
+  <direccion>Calle de Serrano, 61</direccion>
+  <geolocalizacion>
+    <latitud>40.43344058001536</latitud>
+    <longitud>-3.6850946522332735</longitud>
+  </geolocalizacion>
+  <ofertas>
+    <producto>Arroz redondo</producto>
+    <precio>1.1</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-05-20</inicio>
+      <fin>2023-06-20</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <ofertas>
+    <producto>Garbanzos</producto>
+    <precio>1.13</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-01</inicio>
+      <fin>2023-06-15</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <ofertas>
+    <producto>Manzanas Golden</producto>
+    <precio>1.65</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-01</inicio>
+      <fin>2023-06-15</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <cesta_de_productos_habituales>
+    <Carnicería>
+      <producto>Pollo entero</producto>
+      <precio>3.55</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Carnicería>
+    <Parafarmacia>
+      <producto>Gel de baño hidratante de aceite de oliva</producto>
+      <precio>2.25</precio>
+      <unidad>600ml</unidad>
+      <adquirido>false</adquirido>
+    </Parafarmacia>
+    <Parafarmacia>
+      <producto>Pasta dentífrica</producto>
+      <precio>2.6</precio>
+      <unidad>unidad</unidad>
+      <adquirido>false</adquirido>
+    </Parafarmacia>
+    <Panadería>
+      <producto>Barra de pan</producto>
+      <precio>0.95</precio>
+      <unidad>300gr</unidad>
+      <adquirido>false</adquirido>
+    </Panadería>
+    <Frutería>
+      <producto>Calabacín</producto>
+      <precio>2.25</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Patata nueva</producto>
+      <precio>1.25</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Manzanas Golden</producto>
+      <precio>1.65</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Pimientos verdes Italianos</producto>
+      <precio>2.79</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Lechuga iceberg</producto>
+      <precio>1.29</precio>
+      <unidad>1 unidad</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+  </cesta_de_productos_habituales>
+</supermercados>
+<supermercados>
+  <nombre>AhorraMás</nombre>
+  <direccion>Calle Andrés Mellado 43</direccion>
+  <geolocalizacion>
+    <latitud>40.404300352390024</latitud>
+    <longitud>-3.6902444819676465</longitud>
+  </geolocalizacion>
+  <ofertas>
+    <producto>Lechuga iceberg</producto>
+    <precio>0.89</precio>
+    <unidad>1 unidad</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-12</inicio>
+      <fin>2023-06-23</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <ofertas>
+    <producto>Harina de trigo integral</producto>
+    <precio>0.55</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-05-30</inicio>
+      <fin>2023-06-15</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <ofertas>
+    <producto>Pimientos verdes Italianos</producto>
+    <precio>2.59</precio>
+    <unidad>1kg</unidad>
+    <periodo_de_vigencia_de_las_ofertas>
+      <inicio>2023-06-13</inicio>
+      <fin>2023-06-20</fin>
+    </periodo_de_vigencia_de_las_ofertas>
+    <adquirido>false</adquirido>
+  </ofertas>
+  <cesta_de_productos_habituales>
+    <Carnicería>
+      <producto>Pollo entero</producto>
+      <precio>3.55</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Carnicería>
+    <Parafarmacia>
+      <producto>Gel de baño hidratante de aceite de oliva</producto>
+      <precio>2.1</precio>
+      <unidad>600ml</unidad>
+      <adquirido>false</adquirido>
+    </Parafarmacia>
+    <Parafarmacia>
+      <producto>Pasta dentífrica</producto>
+      <precio>2.42</precio>
+      <unidad>unidad</unidad>
+      <adquirido>false</adquirido>
+    </Parafarmacia>
+    <Panadería>
+      <producto>Barra de pan</producto>
+      <precio>0.51</precio>
+      <unidad>300gr</unidad>
+      <adquirido>false</adquirido>
+    </Panadería>
+    <Frutería>
+      <producto>Calabacín</producto>
+      <precio>1.99</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Patata nueva</producto>
+      <precio>1.15</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Manzanas Golden</producto>
+      <precio>1.85</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Pimientos verdes Italianos</producto>
+      <precio>2.59</precio>
+      <unidad>1kg</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+    <Frutería>
+      <producto>Lechuga iceberg</producto>
+      <precio>0.89</precio>
+      <unidad>1 unidad</unidad>
+      <adquirido>false</adquirido>
+    </Frutería>
+  </cesta_de_productos_habituales>
+</supermercados>
